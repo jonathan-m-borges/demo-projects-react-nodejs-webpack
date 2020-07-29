@@ -1,9 +1,14 @@
 import React from 'react';
+import './App.css';
+
+import Header from './components/Header';
+import Projects from './components/Projects';
 
 export default function App() {
     return (
         <>
-            <h1>App demo</h1>
+            <Header />
+            <Projects />
         </>
     )
 }
