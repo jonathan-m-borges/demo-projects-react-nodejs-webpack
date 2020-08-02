@@ -5,9 +5,11 @@ Aplicação simples de cadastro de Projetos como uma POC utilizando NodeJS, Reac
 ## Screen da Aplicação
 
 **Versão Web**
+
 ![Screen da Aplicacao Web](./assets/demo-web.png)
 
-**Versão Web**
+**Versão Mobile**
+
 ![Screen da Aplicacao Mobile](./assets/demo-mobile.png)
 
 
