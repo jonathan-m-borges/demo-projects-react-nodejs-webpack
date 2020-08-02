@@ -1,10 +1,14 @@
 # demo-projects-react-nodejs-webpack
 
-Aplicação simples de cadastro de Projetos como uma POC utilizando React, NodeJS e Webpack.
+Aplicação simples de cadastro de Projetos como uma POC utilizando NodeJS, React, ReactJS, Webpack e React Native.
 
 ## Screen da Aplicação
 
-![Screen da Aplicacao](./assets/demo-app.png)
+**Versão Web**
+![Screen da Aplicacao Web](./assets/demo-web.png)
+
+**Versão Web**
+![Screen da Aplicacao Mobile](./assets/demo-mobile.png)
 
 
 ## Tecnologias
@@ -14,6 +18,12 @@ Aplicação simples de cadastro de Projetos como uma POC utilizando React, NodeJ
  - NodeJS
  - Express
 
-### Frontend
+### Frontend Web
 
  - React
+ - ReactJS
+
+### Frontend Mobile
+
+ - React
+ - React Native
